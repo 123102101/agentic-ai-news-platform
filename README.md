@@ -91,9 +91,4 @@ Check the project's entry point and README instructions for the correct startup 
 - Enhanced search and filtering
 - Deployment with monitoring and automated testing
 
-## 👨‍💻 Acknowledgements
 
-This project is based on an existing implementation. Please refer to the original repository and acknowledge its contributors. Document your own modifications and contributions accurately.
-
-**Original repository:** https://github.com/Dipanshukaushiknitkkr/agentic-ai-news-platform
-Tech News Digest - Personalized AI-Powered News Aggregation
